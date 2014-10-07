@@ -1,0 +1,33 @@
+{
+  "name": "Play",
+  "designer": "Jonas Hecksher",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 65866,
+  "fonts": [
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Play-Regular-TTF.ttf",
+      "postScriptName": "Play-Regular",
+      "fullName": "Play Regular",
+      "copyright": "Copyright (c) 2011, Jonas Hecksher, Playtypes, e-types AS. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "UNKNOWN",
+      "style": "normal",
+      "weight": 700,
+      "filename": "Play-Bold-TTF.ttf",
+      "postScriptName": "Play-Bold",
+      "fullName": "Play Bold",
+      "copyright": "Copyright (c) 2011 by Jonas Hecksher, Playtype e-types AS. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-05-04"
+}
